@@ -1,8 +1,8 @@
 /* Components */
-import { Counter } from "./components/Counter/Counter";
+import Form from "./components/Form";
 
 export default function IndexPage() {
-  return <Counter />;
+  return <Form />;
 }
 
 export const metadata = {
